@@ -3,6 +3,11 @@
 dataset you download from here 
 https://github.com/linanqiu/word2vec-sentiments 
 
+# Dependencies 
+1. python 2.7
+2. tensorflow 
+3. keras
+
 # How to use :
 
 1. clone this repo 
